@@ -23,4 +23,4 @@ eg ./zebra 4169 6941
 
 I have verified that most of the functions are working. But not all of them on every version.
 This is what I got so far:
-[protection_table.html](Protection table)
+[Protection table](https://creativemind1001.github.io/zebra/protection_table.html)
