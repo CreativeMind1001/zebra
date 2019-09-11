@@ -30,3 +30,7 @@ If you want to just unlock certain WoW instance(s) that can be done by invoking 
 I have verified that most of the functions are working. But not all of them on every version.
 This is what I got so far: <br />
 [Protection table](https://creativemind1001.github.io/zebra/protection_table.html)
+
+Antivirus scans:<br />
+[Metadefender](https://metadefender.opswat.com/results#!/file/bzE5MDkxMVNrdU1jMXdMTHJTMUZ6Y2t2SVVT/regular/overview) <br />
+[VirusTotal](https://www.virustotal.com/gui/file/610658d9461e05910988ad0a927b7e0a8d73e30f34c405795063a7c7fd4e8f46/detection) <br />
