@@ -17,7 +17,9 @@ Just fire up your WoW client and run the application and you will see something 
 That will unlock all WoW instances.
 If you want to just unlock certain WoW instance(s) that can be done by invoking the program from the command line:
 
+```batch
 ./zebra [PID...]
+```
 eg ./zebra 4169
 eg ./zebra 4169 6941
 
