@@ -21,10 +21,10 @@ If you want to just unlock certain WoW instance(s) that can be done by invoking 
 ./zebra [PID...]
 ```
 ```batch
-eg ./zebra 4169
+./zebra 4169
 ```
 ```batch
-eg ./zebra 4169 6941
+./zebra 4169 6941
 ```
 
 I have verified that most of the functions are working. But not all of them on every version.
